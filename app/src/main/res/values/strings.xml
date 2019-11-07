@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">booklist</string>
+    <string name="title">Title: </string>
+    <string name="rating">Rating: </string>
+</resources>
